@@ -1,4 +1,4 @@
-# 🐦 lappy Bird Game (Python + Pygame)
+# 🐦 Flappy Bird Game (Python + Pygame)
 
 A fun Flappy Bird clone created with **Python** and **Pygame**. This version features smooth bird motion, randomly generated pipes, score tracking, accurate collision detection, and a restart option — all packed in a clean modular format without sound effects.
 
