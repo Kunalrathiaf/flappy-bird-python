@@ -54,6 +54,9 @@ Flappy-Bid-main/
 --
 
 Pygame — Python game development library
+
 Font — 04B_19.ttf from dafont.com
+
 Original Game — Inspired by the legendary Flappy Bird by Dong Nguyen
+
 GitHub — Your GitHub Profile [(https://github.com/Kunalrathiaf)]
